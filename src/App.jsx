@@ -9,7 +9,7 @@ function App() {
       <p>Welcome to the CV Builder! This is a simple application that allows you to create a CV.</p>
       <p>To get started, click on the button below to create a new CV.</p>
       <p>alksdfjhaskjdflh</p>
-      <p>asdfjhgasdf</p>
+      <p>SIGMABOYYY</p>
     </div>
   )
 }
